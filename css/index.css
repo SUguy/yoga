@@ -1,3 +1,13 @@
 .img-responsive.round{
   width: 256px;
 }
+
+header {
+  background: url("../img/heroimg1.jpg");
+  /* background-position: center; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #6474ed;
+}
