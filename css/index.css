@@ -15,3 +15,10 @@ header {
 #about_pws{
   padding: 25px;
 }
+
+#about_pws a{
+  color: black;
+}
+.row.img{
+  padding: 20px;
+}
